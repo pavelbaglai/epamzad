@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Accounts>
+  <Employee Code="1">
+    <FullName>Иванов Иван Иванович</FullName>
+    <Document>21, 4000 000001</Document>
+    <BirthDate>1980-01-01</BirthDate>
+    <Sex>М</Sex>
+  </Employee>
+  <Employee Code="2">
+    <FullName>Сидоров Кирилл Иннокентиевич</FullName>
+    <Document>21, 8005 301020</Document>
+    <BirthDate>1987-01-01</BirthDate>
+    <Sex>М</Sex>
+  </Employee>
+  <Employee Code="3">
+    <FullName>Петров Виктор Павлович</FullName>
+    <Document>21, 8009 778941</Document>
+    <BirthDate>1990-11-15</BirthDate>
+    <Sex>М</Sex>
+  </Employee>
+</Accounts>

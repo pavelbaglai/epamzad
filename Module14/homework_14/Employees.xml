@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Accounts>
+	<Employee id="1">
+		<Family>Иванов</Family>
+		<Name>Иван</Name>
+		<SecondName>Иванович</SecondName>
+		<Document>
+			<DocumentCode>21</DocumentCode>
+			<Series>4000</Series>
+			<Number>000001</Number>
+		</Document>
+		<BirthDate>1980-01-01</BirthDate>
+		<Sex>М</Sex>
+	</Employee>
+	<Employee id="2">
+	  <Family>Сидоров</Family>
+	  <Name>Кирилл</Name>
+	  <SecondName>Иннокентиевич</SecondName>
+	  <Document>
+	    <DocumentCode>21</DocumentCode>
+	    <Series>8005</Series>
+	    <Number>301020</Number>
+	  </Document>
+	  <BirthDate>1987-01-01</BirthDate>
+	  <Sex>М</Sex>
+	</Employee>
+    <Employee id="3">
+	  <Family>Петров</Family>
+	  <Name>Виктор</Name>
+	  <SecondName>Павлович</SecondName>
+	  <Document>
+	    <DocumentCode>21</DocumentCode>
+	    <Series>8009</Series>
+	    <Number>778941</Number>
+	  </Document>
+	  <BirthDate>1990-11-15</BirthDate>
+	  <Sex>М</Sex>
+	</Employee>
+</Accounts>
